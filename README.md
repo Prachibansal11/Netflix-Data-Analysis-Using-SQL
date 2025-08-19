@@ -62,5 +62,4 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ---
 
-This project uses publicly available data from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download) and is intended for educational and analytical purposes only.
 
